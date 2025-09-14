@@ -1,0 +1,35 @@
+[2025-09-13T06:26:50.490+0000] {processor.py:161} INFO - Started process (PID=180) to work on /opt/airflow/dags/dag_export_est.py
+[2025-09-13T06:26:50.491+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_export_est.py for tasks to queue
+[2025-09-13T06:26:50.495+0000] {logging_mixin.py:188} INFO - [2025-09-13T06:26:50.493+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dag_export_est.py
+[2025-09-13T06:26:50.515+0000] {processor.py:840} INFO - DAG(s) 'dag_export_es' retrieved from /opt/airflow/dags/dag_export_est.py
+[2025-09-13T06:26:50.633+0000] {logging_mixin.py:188} INFO - [2025-09-13T06:26:50.633+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T06:26:50.645+0000] {logging_mixin.py:188} INFO - [2025-09-13T06:26:50.645+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_export_es to None, run_after=None
+[2025-09-13T06:26:50.668+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_export_est.py took 0.187 seconds
+[2025-09-13T06:27:20.737+0000] {processor.py:161} INFO - Started process (PID=204) to work on /opt/airflow/dags/dag_export_est.py
+[2025-09-13T06:27:20.743+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_export_est.py for tasks to queue
+[2025-09-13T06:27:20.748+0000] {logging_mixin.py:188} INFO - [2025-09-13T06:27:20.748+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dag_export_est.py
+[2025-09-13T06:27:20.795+0000] {processor.py:840} INFO - DAG(s) 'dag_export_es' retrieved from /opt/airflow/dags/dag_export_est.py
+[2025-09-13T06:27:20.863+0000] {logging_mixin.py:188} INFO - [2025-09-13T06:27:20.862+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T06:27:20.888+0000] {logging_mixin.py:188} INFO - [2025-09-13T06:27:20.888+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_export_es to None, run_after=None
+[2025-09-13T06:27:20.909+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_export_est.py took 0.180 seconds
+[2025-09-13T06:27:51.445+0000] {processor.py:161} INFO - Started process (PID=221) to work on /opt/airflow/dags/dag_export_est.py
+[2025-09-13T06:27:51.446+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_export_est.py for tasks to queue
+[2025-09-13T06:27:51.453+0000] {logging_mixin.py:188} INFO - [2025-09-13T06:27:51.452+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dag_export_est.py
+[2025-09-13T06:27:51.490+0000] {processor.py:840} INFO - DAG(s) 'dag_export_es' retrieved from /opt/airflow/dags/dag_export_est.py
+[2025-09-13T06:27:51.577+0000] {logging_mixin.py:188} INFO - [2025-09-13T06:27:51.577+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T06:27:51.607+0000] {logging_mixin.py:188} INFO - [2025-09-13T06:27:51.607+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_export_es to None, run_after=None
+[2025-09-13T06:27:51.636+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_export_est.py took 0.209 seconds
+[2025-09-13T06:28:22.176+0000] {processor.py:161} INFO - Started process (PID=241) to work on /opt/airflow/dags/dag_export_est.py
+[2025-09-13T06:28:22.180+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_export_est.py for tasks to queue
+[2025-09-13T06:28:22.183+0000] {logging_mixin.py:188} INFO - [2025-09-13T06:28:22.183+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dag_export_est.py
+[2025-09-13T06:28:22.210+0000] {processor.py:840} INFO - DAG(s) 'dag_export_es' retrieved from /opt/airflow/dags/dag_export_est.py
+[2025-09-13T06:28:22.252+0000] {logging_mixin.py:188} INFO - [2025-09-13T06:28:22.251+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T06:28:22.262+0000] {logging_mixin.py:188} INFO - [2025-09-13T06:28:22.262+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_export_es to None, run_after=None
+[2025-09-13T06:28:22.276+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_export_est.py took 0.112 seconds
+[2025-09-13T06:28:52.779+0000] {processor.py:161} INFO - Started process (PID=261) to work on /opt/airflow/dags/dag_export_est.py
+[2025-09-13T06:28:52.781+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dag_export_est.py for tasks to queue
+[2025-09-13T06:28:52.783+0000] {logging_mixin.py:188} INFO - [2025-09-13T06:28:52.782+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/dag_export_est.py
+[2025-09-13T06:28:52.796+0000] {processor.py:840} INFO - DAG(s) 'dag_export_es' retrieved from /opt/airflow/dags/dag_export_est.py
+[2025-09-13T06:28:52.829+0000] {logging_mixin.py:188} INFO - [2025-09-13T06:28:52.829+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T06:28:52.842+0000] {logging_mixin.py:188} INFO - [2025-09-13T06:28:52.842+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_export_es to None, run_after=None
+[2025-09-13T06:28:52.857+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dag_export_est.py took 0.085 seconds

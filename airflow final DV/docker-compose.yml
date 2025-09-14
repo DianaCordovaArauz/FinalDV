@@ -1,0 +1,155 @@
+version: "3.9"
+
+x-airflow-common: &airflow-common
+  image: apache/airflow:2.9.1
+  environment: &airflow-env
+    AIRFLOW__CORE__EXECUTOR: LocalExecutor
+    AIRFLOW__CORE__LOAD_EXAMPLES: "False"
+    AIRFLOW__CORE__FERNET_KEY: "_WsjhghHfdlVRo09yVNP3Qc6m6ecjMskNgVxRnJn7fY="
+    AIRFLOW__WEBSERVER__SECRET_KEY: "cambia_esto"     # (recomiendo poner uno fuerte)
+    AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@airflow-db:5432/airflow
+    ES_URL: "http://elasticsearch:9200"               # ← AÑADE ESTA LÍNEA
+    AIRFLOW_CONN_ELASTICSEARCH_DEFAULT: "http://elasticsearch:9200"
+    _PIP_ADDITIONAL_REQUIREMENTS: "apache-airflow-providers-postgres apache-airflow-providers-mysql apache-airflow-providers-elasticsearch psycopg2-binary pymysql requests"
+  volumes:
+    - ./dags:/opt/airflow/dags
+    - ./logs:/opt/airflow/logs
+    - ./plugins:/opt/airflow/plugins
+  user: "${AIRFLOW_UID:-50000}:0"
+  depends_on:
+    airflow-db:
+      condition: service_healthy
+  networks:
+    - elknet
+
+services:
+  airflow-db:
+    image: postgres:15
+    container_name: airflow_db
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U airflow -d airflow"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    ports:
+      - "5433:5432"
+    volumes:
+      - airflow_pgdata:/var/lib/postgresql/data
+    networks:
+      - elknet
+
+  airflow-init:
+    <<: *airflow-common
+    container_name: airflow_init
+    entrypoint: ["/bin/bash", "-c"]
+    command:
+      - >
+        airflow db init &&
+        airflow users create
+        --username admin
+        --password admin
+        --firstname Admin
+        --lastname User
+        --role Admin
+        --email admin@example.com || true
+    networks:
+      - elknet
+
+  airflow-webserver:
+    <<: *airflow-common
+    container_name: airflow_webserver
+    command: ["airflow", "webserver"]
+    ports:
+      - "8080:8080"
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+      elasticsearch:
+        condition: service_healthy
+    environment:
+      <<: *airflow-env
+    networks:
+      - elknet
+
+  airflow-scheduler:
+    <<: *airflow-common
+    container_name: airflow_scheduler
+    command: ["airflow", "scheduler"]
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+      elasticsearch:
+        condition: service_healthy
+    environment:
+      <<: *airflow-env
+    networks:
+      - elknet
+
+  airflow-triggerer:
+    <<: *airflow-common
+    container_name: airflow_triggerer
+    command: ["airflow", "triggerer"]
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+      elasticsearch:
+        condition: service_healthy
+    environment:
+      <<: *airflow-env
+    networks:
+      - elknet
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.14.0
+    container_name: elasticsearch
+    environment:
+      discovery.type: single-node
+      xpack.security.enabled: "false"
+      bootstrap.memory_lock: "true"
+      ES_JAVA_OPTS: "-Xms512m -Xmx512m"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - es_data:/usr/share/elasticsearch/data
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS http://localhost:9200 >/dev/null || exit 1"]
+      interval: 10s
+      timeout: 10s
+      retries: 10
+    networks:
+      - elknet
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.14.0
+    container_name: kibana
+    environment:
+      ELASTICSEARCH_HOSTS: "http://elasticsearch:9200"
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+    ports:
+      - "5601:5601"
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS http://localhost:5601/api/status >/dev/null || exit 1"]
+      interval: 10s
+      timeout: 10s
+      retries: 20
+    networks:
+      - elknet
+
+volumes:
+  airflow_pgdata:
+  es_data:
+
+networks:
+  elknet:
+    driver: bridge

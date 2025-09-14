@@ -1,0 +1,567 @@
+[2025-09-13T03:02:14.716+0000] {processor.py:161} INFO - Started process (PID=547) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:02:14.717+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:02:14.718+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:02:14.717+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:02:14.747+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:02:14.985+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:02:14.985+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:02:14.994+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:02:14.994+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:02:15.008+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.307 seconds
+[2025-09-13T03:02:45.406+0000] {processor.py:161} INFO - Started process (PID=562) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:02:45.408+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:02:45.410+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:02:45.409+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:02:45.448+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:02:45.571+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:02:45.571+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:02:45.657+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:02:45.654+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:02:45.711+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.321 seconds
+[2025-09-13T03:03:16.722+0000] {processor.py:161} INFO - Started process (PID=577) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:03:16.729+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:03:16.741+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:03:16.731+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:03:17.315+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:03:17.705+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:03:17.703+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:03:17.732+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:03:17.731+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:03:17.751+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 1.093 seconds
+[2025-09-13T03:03:48.761+0000] {processor.py:161} INFO - Started process (PID=592) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:03:48.763+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:03:48.764+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:03:48.763+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:03:48.798+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:03:48.914+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:03:48.913+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:03:48.939+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:03:48.938+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:03:48.980+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.232 seconds
+[2025-09-13T03:04:19.922+0000] {processor.py:161} INFO - Started process (PID=607) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:04:19.924+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:04:19.925+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:04:19.925+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:04:19.969+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:04:20.067+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:04:20.067+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:04:20.086+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:04:20.085+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:04:20.100+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.195 seconds
+[2025-09-13T03:05:04.649+0000] {processor.py:161} INFO - Started process (PID=625) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:05:04.661+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:05:04.690+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:05:04.689+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:05:04.941+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:05:05.192+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:05:05.188+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:05:05.226+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:05:05.226+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:05:05.266+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.757 seconds
+[2025-09-13T03:05:36.198+0000] {processor.py:161} INFO - Started process (PID=647) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:05:36.198+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:05:36.199+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:05:36.199+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:05:36.204+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:05:36.216+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:05:36.216+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:05:36.222+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:05:36.222+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:05:36.228+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.034 seconds
+[2025-09-13T03:06:06.688+0000] {processor.py:161} INFO - Started process (PID=662) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:06:06.689+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:06:06.689+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:06:06.689+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:06:06.694+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:06:06.706+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:06:06.706+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:06:06.710+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:06:06.710+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:06:06.717+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.034 seconds
+[2025-09-13T03:06:37.259+0000] {processor.py:161} INFO - Started process (PID=677) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:06:37.259+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:06:37.260+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:06:37.259+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:06:37.267+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:06:37.282+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:06:37.281+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:06:37.287+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:06:37.287+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:06:37.294+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.039 seconds
+[2025-09-13T03:07:08.238+0000] {processor.py:161} INFO - Started process (PID=692) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:07:08.239+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:07:08.239+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:07:08.239+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:07:08.246+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:07:08.277+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:07:08.276+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:07:08.304+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:07:08.303+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:07:08.326+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.092 seconds
+[2025-09-13T03:07:39.080+0000] {processor.py:161} INFO - Started process (PID=707) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:07:39.080+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:07:39.081+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:07:39.081+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:07:39.086+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:07:39.108+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:07:39.108+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:07:39.156+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:07:39.156+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:07:39.255+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.181 seconds
+[2025-09-13T03:08:09.909+0000] {processor.py:161} INFO - Started process (PID=722) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:08:09.911+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:08:09.911+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:08:09.911+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:08:09.918+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:08:09.937+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:08:09.936+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:08:09.951+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:08:09.951+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:08:09.962+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.067 seconds
+[2025-09-13T03:08:40.475+0000] {processor.py:161} INFO - Started process (PID=737) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:08:40.475+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:08:40.476+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:08:40.476+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:08:40.485+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:08:40.499+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:08:40.499+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:08:40.506+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:08:40.506+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:08:40.513+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.042 seconds
+[2025-09-13T03:09:11.473+0000] {processor.py:161} INFO - Started process (PID=752) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:09:11.474+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:09:11.474+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:09:11.474+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:09:11.480+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:09:11.493+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:09:11.493+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:09:11.498+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:09:11.498+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:09:11.505+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.034 seconds
+[2025-09-13T03:09:42.204+0000] {processor.py:161} INFO - Started process (PID=767) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:09:42.204+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:09:42.205+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:09:42.204+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:09:42.211+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:09:42.228+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:09:42.228+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:09:42.234+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:09:42.234+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:09:42.243+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.043 seconds
+[2025-09-13T03:10:12.919+0000] {processor.py:161} INFO - Started process (PID=782) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:10:12.920+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:10:12.920+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:10:12.920+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:10:12.926+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:10:12.938+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:10:12.938+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:10:12.945+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:10:12.945+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:10:12.953+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.037 seconds
+[2025-09-13T03:10:43.427+0000] {processor.py:161} INFO - Started process (PID=797) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:10:43.427+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:10:43.428+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:10:43.427+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:10:43.433+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:10:43.446+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:10:43.446+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:10:43.452+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:10:43.452+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:10:43.459+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.035 seconds
+[2025-09-13T03:11:14.053+0000] {processor.py:161} INFO - Started process (PID=812) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:11:14.054+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:11:14.054+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:11:14.054+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:11:14.061+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:11:14.076+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:11:14.075+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:11:14.083+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:11:14.083+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:11:14.091+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.040 seconds
+[2025-09-13T03:11:44.838+0000] {processor.py:161} INFO - Started process (PID=827) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:11:44.840+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:11:44.841+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:11:44.841+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:11:44.848+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:11:44.864+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:11:44.864+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:11:44.869+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:11:44.869+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:11:44.876+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.041 seconds
+[2025-09-13T03:12:15.716+0000] {processor.py:161} INFO - Started process (PID=842) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:12:15.717+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:12:15.717+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:12:15.717+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:12:15.724+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:12:15.744+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:12:15.744+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:12:15.749+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:12:15.749+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:12:15.756+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.043 seconds
+[2025-09-13T03:12:46.296+0000] {processor.py:161} INFO - Started process (PID=857) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:12:46.297+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:12:46.297+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:12:46.297+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:12:46.303+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:12:46.317+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:12:46.317+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:12:46.322+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:12:46.322+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:12:46.329+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.036 seconds
+[2025-09-13T03:13:16.943+0000] {processor.py:161} INFO - Started process (PID=872) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:13:16.943+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:13:16.944+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:13:16.944+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:13:16.956+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:13:16.975+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:13:16.975+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:13:16.981+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:13:16.980+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:13:16.987+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.050 seconds
+[2025-09-13T03:13:47.829+0000] {processor.py:161} INFO - Started process (PID=887) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:13:47.830+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:13:47.830+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:13:47.830+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:13:47.841+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:13:47.866+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:13:47.866+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:13:47.872+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:13:47.872+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:13:47.881+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.056 seconds
+[2025-09-13T03:14:18.550+0000] {processor.py:161} INFO - Started process (PID=902) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:14:18.551+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:14:18.551+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:14:18.551+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:14:18.560+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:14:18.574+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:14:18.574+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:14:18.579+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:14:18.579+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:14:18.586+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.039 seconds
+[2025-09-13T03:14:49.157+0000] {processor.py:161} INFO - Started process (PID=915) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:14:49.157+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:14:49.158+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:14:49.158+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:14:49.163+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:14:49.183+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:14:49.183+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:14:49.194+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:14:49.194+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:14:49.204+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.055 seconds
+[2025-09-13T03:15:19.749+0000] {processor.py:161} INFO - Started process (PID=932) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:15:19.750+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:15:19.750+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:15:19.750+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:15:19.755+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:15:19.769+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:15:19.769+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:15:19.779+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:15:19.779+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:15:19.787+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.040 seconds
+[2025-09-13T03:15:50.256+0000] {processor.py:161} INFO - Started process (PID=947) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:15:50.256+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:15:50.257+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:15:50.257+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:15:50.262+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:15:50.274+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:15:50.273+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:15:50.278+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:15:50.278+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:15:50.285+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.031 seconds
+[2025-09-13T03:16:20.911+0000] {processor.py:161} INFO - Started process (PID=962) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:16:20.911+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:16:20.912+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:16:20.912+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:16:20.918+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:16:20.930+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:16:20.930+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:16:20.939+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:16:20.939+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:16:20.947+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.039 seconds
+[2025-09-13T03:16:51.895+0000] {processor.py:161} INFO - Started process (PID=977) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:16:51.897+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:16:51.898+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:16:51.898+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:16:51.919+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:16:51.949+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:16:51.949+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:16:51.962+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:16:51.961+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:16:51.975+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.089 seconds
+[2025-09-13T03:17:22.453+0000] {processor.py:161} INFO - Started process (PID=992) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:17:22.453+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:17:22.454+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:17:22.454+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:17:22.462+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:17:22.478+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:17:22.478+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:17:22.484+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:17:22.484+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:17:22.491+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.041 seconds
+[2025-09-13T03:17:53.835+0000] {processor.py:161} INFO - Started process (PID=1007) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:17:53.841+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:17:53.844+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:17:53.843+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:17:53.863+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:17:53.911+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:17:53.911+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:17:53.924+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:17:53.924+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:17:53.955+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.156 seconds
+[2025-09-13T03:18:25.289+0000] {processor.py:161} INFO - Started process (PID=1022) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:18:25.290+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:18:25.291+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:18:25.290+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:18:25.303+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:18:25.334+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:18:25.334+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:18:25.346+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:18:25.345+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:18:25.357+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.079 seconds
+[2025-09-13T03:23:51.915+0000] {processor.py:161} INFO - Started process (PID=192) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:23:51.919+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:23:51.922+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:23:51.922+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:23:51.939+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:23:51.961+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:23:51.961+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:23:51.971+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:23:51.971+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:23:51.981+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.090 seconds
+[2025-09-13T03:24:23.951+0000] {processor.py:161} INFO - Started process (PID=207) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:24:23.956+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:24:23.958+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:24:23.958+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:24:24.025+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:24:24.217+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:24:24.216+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:24:24.232+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:24:24.232+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:24:24.257+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.339 seconds
+[2025-09-13T03:24:54.668+0000] {processor.py:161} INFO - Started process (PID=222) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:24:54.669+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:24:54.669+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:24:54.669+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:24:54.674+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:24:54.689+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:24:54.689+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:24:54.694+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:24:54.693+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:24:54.700+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.034 seconds
+[2025-09-13T03:25:25.434+0000] {processor.py:161} INFO - Started process (PID=237) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:25:25.435+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:25:25.435+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:25:25.435+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:25:25.441+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:25:25.461+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:25:25.460+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:25:25.468+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:25:25.468+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:25:25.475+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.044 seconds
+[2025-09-13T03:25:56.304+0000] {processor.py:161} INFO - Started process (PID=252) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:25:56.305+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:25:56.306+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:25:56.305+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:25:56.313+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:25:56.336+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:25:56.335+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:25:56.359+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:25:56.359+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:25:56.367+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.067 seconds
+[2025-09-13T03:26:26.875+0000] {processor.py:161} INFO - Started process (PID=267) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:26:26.875+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:26:26.876+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:26:26.876+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:26:26.884+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:26:26.900+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:26:26.900+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:26:26.906+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:26:26.906+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:26:26.912+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.042 seconds
+[2025-09-13T03:26:57.738+0000] {processor.py:161} INFO - Started process (PID=282) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:26:57.739+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:26:57.740+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:26:57.740+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:26:57.748+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:26:57.791+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:26:57.791+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:26:57.799+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:26:57.799+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:26:57.813+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.078 seconds
+[2025-09-13T03:27:28.586+0000] {processor.py:161} INFO - Started process (PID=297) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:27:28.587+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:27:28.589+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:27:28.588+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:27:28.598+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:27:28.615+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:27:28.615+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:27:28.621+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:27:28.621+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:27:28.627+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.045 seconds
+[2025-09-13T03:27:59.249+0000] {processor.py:161} INFO - Started process (PID=312) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:27:59.251+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:27:59.256+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:27:59.253+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:27:59.267+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:27:59.307+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:27:59.307+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:27:59.335+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:27:59.333+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:27:59.367+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.122 seconds
+[2025-09-13T03:28:30.701+0000] {processor.py:161} INFO - Started process (PID=327) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:28:30.708+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:28:30.730+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:28:30.720+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:28:30.862+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:28:30.980+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:28:30.980+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:28:31.003+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:28:31.003+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:28:31.049+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.400 seconds
+[2025-09-13T03:29:01.599+0000] {processor.py:161} INFO - Started process (PID=342) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:29:01.600+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:29:01.609+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:29:01.609+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:29:01.637+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:29:01.690+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:29:01.690+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:29:01.711+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:29:01.711+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:29:01.724+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.136 seconds
+[2025-09-13T03:29:32.516+0000] {processor.py:161} INFO - Started process (PID=357) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:29:32.518+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:29:32.519+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:29:32.519+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:29:32.525+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:29:32.539+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:29:32.539+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:29:32.546+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:29:32.546+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:29:32.553+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.040 seconds
+[2025-09-13T03:30:03.100+0000] {processor.py:161} INFO - Started process (PID=372) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:30:03.101+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:30:03.102+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:30:03.102+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:30:03.107+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:30:03.119+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:30:03.119+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:30:03.124+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:30:03.124+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:30:03.130+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.034 seconds
+[2025-09-13T03:30:33.836+0000] {processor.py:161} INFO - Started process (PID=387) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:30:33.836+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:30:33.838+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:30:33.837+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:30:33.846+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:30:33.860+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:30:33.860+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:30:33.867+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:30:33.867+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:30:33.883+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.051 seconds
+[2025-09-13T03:31:04.700+0000] {processor.py:161} INFO - Started process (PID=402) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:31:04.700+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:31:04.701+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:31:04.701+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:31:04.706+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:31:04.723+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:31:04.722+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:31:04.728+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:31:04.728+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:31:04.734+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.037 seconds
+[2025-09-13T03:31:35.794+0000] {processor.py:161} INFO - Started process (PID=417) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:31:35.795+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:31:35.796+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:31:35.796+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:31:35.803+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:31:35.819+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:31:35.819+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:31:35.825+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:31:35.825+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:31:35.832+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.044 seconds
+[2025-09-13T03:32:06.323+0000] {processor.py:161} INFO - Started process (PID=432) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:32:06.324+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:32:06.327+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:32:06.326+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:32:06.333+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:32:06.347+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:32:06.347+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:32:06.353+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:32:06.353+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:32:06.368+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.048 seconds
+[2025-09-13T03:32:36.879+0000] {processor.py:161} INFO - Started process (PID=447) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:32:36.880+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:32:36.880+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:32:36.880+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:32:36.886+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:32:36.899+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:32:36.899+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:32:36.906+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:32:36.906+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:32:36.913+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.037 seconds
+[2025-09-13T03:33:07.393+0000] {processor.py:161} INFO - Started process (PID=462) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:33:07.394+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:33:07.395+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:33:07.395+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:33:07.400+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:33:07.417+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:33:07.417+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:33:07.422+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:33:07.422+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:33:07.428+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.038 seconds
+[2025-09-13T03:33:37.852+0000] {processor.py:161} INFO - Started process (PID=477) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:33:37.852+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:33:37.853+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:33:37.853+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:33:37.859+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:33:37.873+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:33:37.873+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:33:37.878+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:33:37.878+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:33:37.885+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.036 seconds
+[2025-09-13T03:34:08.345+0000] {processor.py:161} INFO - Started process (PID=492) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:34:08.345+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:34:08.346+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:34:08.346+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:34:08.351+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:34:08.364+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:34:08.364+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:34:08.369+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:34:08.369+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:34:08.375+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.033 seconds
+[2025-09-13T03:34:38.757+0000] {processor.py:161} INFO - Started process (PID=507) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:34:38.758+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:34:38.759+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:34:38.758+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:34:38.763+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:34:38.775+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:34:38.775+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:34:38.780+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:34:38.780+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:34:38.786+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.034 seconds
+[2025-09-13T03:35:09.247+0000] {processor.py:161} INFO - Started process (PID=522) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:35:09.247+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:35:09.248+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:35:09.248+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:35:09.252+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:35:09.266+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:35:09.266+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:35:09.271+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:35:09.271+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:35:09.278+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.035 seconds
+[2025-09-13T03:35:39.665+0000] {processor.py:161} INFO - Started process (PID=537) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:35:39.665+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:35:39.666+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:35:39.666+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:35:39.671+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:35:39.685+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:35:39.685+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:35:39.695+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:35:39.695+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:35:39.708+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.046 seconds
+[2025-09-13T03:36:10.068+0000] {processor.py:161} INFO - Started process (PID=552) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:36:10.069+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:36:10.070+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:36:10.070+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:36:10.074+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:36:10.090+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:36:10.089+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:36:10.099+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:36:10.098+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:36:10.106+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.041 seconds
+[2025-09-13T03:36:40.608+0000] {processor.py:161} INFO - Started process (PID=567) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:36:40.609+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:36:40.610+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:36:40.609+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:36:40.614+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:36:40.627+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:36:40.627+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:36:40.632+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:36:40.632+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:36:40.638+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.033 seconds
+[2025-09-13T03:37:11.189+0000] {processor.py:161} INFO - Started process (PID=582) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:37:11.189+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:37:11.190+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:37:11.190+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:37:11.195+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:37:11.210+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:37:11.210+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:37:11.220+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:37:11.220+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:37:11.230+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.045 seconds
+[2025-09-13T03:37:41.764+0000] {processor.py:161} INFO - Started process (PID=597) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:37:41.765+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:37:41.765+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:37:41.765+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:37:41.770+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:37:41.783+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:37:41.783+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:37:41.788+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:37:41.788+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:37:41.794+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.034 seconds
+[2025-09-13T03:38:04.166+0000] {processor.py:161} INFO - Started process (PID=602) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:38:04.167+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:38:04.170+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:38:04.169+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:38:04.190+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:38:04.230+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:38:04.230+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:38:04.240+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:38:04.240+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:38:04.257+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.105 seconds
+[2025-09-13T03:39:03.368+0000] {processor.py:161} INFO - Started process (PID=181) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:39:03.370+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:39:03.373+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:39:03.372+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:39:03.391+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:39:03.429+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:39:03.429+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:39:03.438+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:39:03.438+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:39:03.456+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.092 seconds
+[2025-09-13T03:39:33.855+0000] {processor.py:161} INFO - Started process (PID=196) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:39:33.856+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:39:33.865+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:39:33.864+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:39:33.888+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:39:33.936+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:39:33.936+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:39:33.954+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:39:33.954+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:39:33.969+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.128 seconds
+[2025-09-13T03:40:04.498+0000] {processor.py:161} INFO - Started process (PID=211) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:40:04.499+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:40:04.504+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:40:04.504+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:40:04.528+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:40:04.636+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:40:04.636+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:40:04.693+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:40:04.693+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:40:04.737+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.257 seconds
+[2025-09-13T03:40:35.412+0000] {processor.py:161} INFO - Started process (PID=226) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:40:35.416+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:40:35.419+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:40:35.419+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:40:35.461+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:40:35.600+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:40:35.600+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:40:35.657+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:40:35.657+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:40:35.677+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.312 seconds
+[2025-09-13T03:41:06.342+0000] {processor.py:161} INFO - Started process (PID=241) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:41:06.343+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:41:06.349+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:41:06.349+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:41:06.379+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:41:06.439+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:41:06.439+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:41:06.463+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:41:06.463+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:41:06.488+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.165 seconds
+[2025-09-13T03:41:37.077+0000] {processor.py:161} INFO - Started process (PID=256) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:41:37.077+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:41:37.080+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:41:37.080+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:41:37.099+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:41:37.144+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:41:37.144+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:41:37.158+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:41:37.158+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:41:37.171+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.107 seconds
+[2025-09-13T03:42:07.662+0000] {processor.py:161} INFO - Started process (PID=271) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:42:07.663+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:42:07.669+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:42:07.669+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:42:07.688+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:42:07.735+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:42:07.735+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:42:07.747+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:42:07.747+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:42:07.759+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.112 seconds
+[2025-09-13T03:42:38.305+0000] {processor.py:161} INFO - Started process (PID=286) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:42:38.306+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:42:38.310+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:42:38.310+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:42:38.329+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:42:38.367+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:42:38.366+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:42:38.378+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:42:38.378+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:42:38.390+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.098 seconds
+[2025-09-13T03:43:08.837+0000] {processor.py:161} INFO - Started process (PID=301) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:43:08.839+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:43:08.844+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:43:08.844+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:43:08.871+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:43:08.919+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:43:08.918+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:43:08.934+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:43:08.934+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:43:08.956+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.136 seconds
+[2025-09-13T03:43:39.650+0000] {processor.py:161} INFO - Started process (PID=316) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:43:39.651+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:43:39.657+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:43:39.656+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:43:39.678+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:43:39.725+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:43:39.725+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:43:39.740+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:43:39.740+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:43:39.752+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.118 seconds
+[2025-09-13T03:44:10.242+0000] {processor.py:161} INFO - Started process (PID=331) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:44:10.242+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:44:10.245+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:44:10.244+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:44:10.264+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:44:10.307+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:44:10.307+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:44:10.316+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:44:10.316+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:44:10.329+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.100 seconds
+[2025-09-13T03:44:40.947+0000] {processor.py:161} INFO - Started process (PID=346) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:44:40.948+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:44:40.953+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:44:40.952+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:44:40.971+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:44:41.002+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:44:41.002+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:44:41.015+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:44:41.015+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:44:41.026+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.091 seconds
+[2025-09-13T03:45:11.340+0000] {processor.py:161} INFO - Started process (PID=361) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:45:11.343+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:45:11.349+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:45:11.348+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:45:11.372+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:45:11.406+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:45:11.406+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:45:11.421+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:45:11.421+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:45:11.433+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.104 seconds
+[2025-09-13T03:45:41.803+0000] {processor.py:161} INFO - Started process (PID=376) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:45:41.804+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:45:41.812+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:45:41.811+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:45:41.841+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:45:41.895+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:45:41.895+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:45:41.907+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:45:41.907+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:45:41.933+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.147 seconds
+[2025-09-13T03:46:12.439+0000] {processor.py:161} INFO - Started process (PID=391) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:46:12.440+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:46:12.444+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:46:12.444+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:46:12.469+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:46:12.518+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:46:12.518+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:46:12.540+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:46:12.540+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:46:12.556+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.138 seconds
+[2025-09-13T03:46:43.139+0000] {processor.py:161} INFO - Started process (PID=406) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:46:43.140+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:46:43.145+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:46:43.144+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:46:43.160+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:46:43.190+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:46:43.190+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:46:43.199+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:46:43.199+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:46:43.217+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.089 seconds
+[2025-09-13T03:47:13.755+0000] {processor.py:161} INFO - Started process (PID=421) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:47:13.758+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:47:13.762+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:47:13.761+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:47:13.783+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:47:13.845+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:47:13.845+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:47:13.874+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:47:13.873+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:47:13.928+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.216 seconds
+[2025-09-13T03:47:44.537+0000] {processor.py:161} INFO - Started process (PID=436) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:47:44.540+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:47:44.552+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:47:44.550+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:47:44.585+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:47:44.633+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:47:44.633+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:47:44.645+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:47:44.645+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:47:44.663+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.153 seconds
+[2025-09-13T03:48:15.057+0000] {processor.py:161} INFO - Started process (PID=451) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:48:15.058+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:48:15.060+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:48:15.060+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:48:15.075+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:48:15.110+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:48:15.110+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:48:15.122+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:48:15.122+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:48:15.137+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.095 seconds
+[2025-09-13T03:48:45.503+0000] {processor.py:161} INFO - Started process (PID=466) to work on /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:48:45.504+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/DAG 3 Exportar elastic search.py for tasks to queue
+[2025-09-13T03:48:45.505+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:48:45.504+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:48:45.522+0000] {processor.py:840} INFO - DAG(s) 'dag_crear_tabla_mysql' retrieved from /opt/airflow/dags/DAG 3 Exportar elastic search.py
+[2025-09-13T03:48:45.553+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:48:45.553+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-13T03:48:45.562+0000] {logging_mixin.py:188} INFO - [2025-09-13T03:48:45.562+0000] {dag.py:3954} INFO - Setting next_dagrun for dag_crear_tabla_mysql to None, run_after=None
+[2025-09-13T03:48:45.580+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/DAG 3 Exportar elastic search.py took 0.091 seconds
